@@ -3,7 +3,7 @@ layout: default
 title: Inicio
 ---
 
-![Logo](/assets/images/first.png)
+<img src="/assets/images/first.png" alt="Logo" style="float: right; width: 150px; margin: 10px;">
 
 # Bienvenido al Centro de Soporte de Horizen
 
