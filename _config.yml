@@ -1,0 +1,11 @@
+title: Soporte Técnico en Español
+description: Centro de ayuda y documentación de Horizen
+baseurl: ""
+url: "https://st.hrzn.es"
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages:
+  - primeros-pasos/index.md
+  - panel/index.md
+  - facturacion/index.md
